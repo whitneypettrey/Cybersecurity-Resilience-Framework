@@ -46,7 +46,7 @@ This project is licensed under the [Apache 2.0 License](https://www.apache.org/l
 ## Contact
 For inquiries or support, please contact:
 - **Name**: Whitney Pettrey
-- **Email**: whitney@example.com
+- **Email**: email@whitneypettrey.com
 
 ---
 
