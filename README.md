@@ -39,14 +39,14 @@ Contributions are welcome! If you have ideas, enhancements, or issues to address
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 ---
 
 ## Contact
 For inquiries or support, please contact:
 - **Name**: Whitney Pettrey
-- **Email**: email@whitneypettrey.com
+- **Email**: whitney@example.com
 
 ---
 
