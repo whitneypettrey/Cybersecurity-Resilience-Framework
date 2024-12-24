@@ -22,4 +22,4 @@ Thank you for your interest in contributing to this project! Here’s how you ca
 Please be respectful and collaborative. Disrespectful behavior will not be tolerated.
 
 ## Questions?
-Join the discussion on [GitHub Discussions](link) or email us at whitneypettrey@gmail.com
+Join the discussion on [GitHub Discussions](link) or email us at email@whitneypettrey.com
